@@ -1,6 +1,6 @@
 # Video Training
 
-Repositório do Video Training! 
+Repositório do Frontend da plataforma Video Training! 
 Este projeto é uma plataforma de streaming de vídeos particulares criada para ajudar empresas a realizar treinamentos com seus funcionários de forma eficiente.
 
 ## Instalação
